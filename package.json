@@ -1,6 +1,6 @@
 {
   "name": "xerography-peppercorn-saison",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A xerography theme and a farmhouse ale",
   "main": "index.js",
   "scripts": {
